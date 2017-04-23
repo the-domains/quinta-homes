@@ -1,0 +1,35 @@
+name: contemporary villa in close to the sea
+analytics: {}
+github: true
+description: a fantastic villa
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.3716361196711659
+color:
+  lightness: 0.7235250209280115
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  saturation: 0.4244646132980624
+  brandStrength: 0.8314487055948583
+  rhythmicContrast: 0.4548355833289296
+content_rating:
+  adult: false
+typography_spectrum: 0.6922263649757951
+opengraph: {}
+title: unique oportunity
