@@ -2,7 +2,10 @@ name: contemporary villa in close to the sea
 analytics: {}
 github: true
 description: a fantastic villa
-author: {}
+author:
+  name: joost
+  url: www.quintahomes.com
+  email: jlast@quintahomes.com
 collections:
   - index:
       path: /
